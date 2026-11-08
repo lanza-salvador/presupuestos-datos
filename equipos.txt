@@ -1,1 +1,17 @@
-SENIOR 4;Purificador;?;?;?;Retiene cloro, trihalometanos, impurezas, microplásticos y metales pesados
+PSA SENIOR 4;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+PSA SENIOR BIANCO;Purificador;36000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA QUANTUM 2;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
+PSA S-1000 2;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA SENIK;Purificador;8000;18;18;Reduce el arsénico presente en el agua y disminuye el cloro, la turbiedad, el olor y el sabor.
+PSA VERO;Purificador;15000;18;18;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA MINI;Purificador;12000;12;12;Disminuye los efectos del cloro y de diversas impurezas.
+PSA STOPPER;Prefiltro;?;?;6;Retiene partículas gruesas en suspensión: arena, arcilla, tierra, óxido, algas y restos de cañería.
+PSA OSMOSIS ROPOT;Ósmosis inversa;?;?;36;Reduce más de un contaminante a la vez mediante ósmosis inversa, carbón activado y prefiltro. Portátil.
+
+# Formato: Modelo (inicio del nombre en la lista de PSA);Tipo;Litros de vida útil;Meses de vida útil;Meses de garantía;Beneficios
+# Fuente: catalogo.psa.com.ar (fichas de cada producto), consultado el 08/11/2026
+# Todas las fichas indican: diseñado según norma IRAM 27.300 y registrado en ANMAT (salvo Stopper, que no lo menciona)
+# Revisar: las fichas de PSA SENIOR BIANCO y PSA VERO dicen "modelo discontinuado", pero siguen en la lista de precios
+# Revisar: PSA SENIK rinde 8.000 L con arsénico 10 veces sobre el límite de la OMS; con menos arsénico rinde más
+# Revisar: PSA QUANTUM 2 y PSA MINI no publican porcentajes de reducción
+# Faltan fichas: C3, RINNOVA, DUO, IONTRIX 3, POLI 2, 1-P PORTATIL, ABLANDADOR DOMUS y MINI DOMUS, OSMOSIS ROTECH, SODA BURBY, AIRPURIFIER
