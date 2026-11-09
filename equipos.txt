@@ -6,6 +6,8 @@
 COLORES;NERO;GRIGIO;BIANCO;TERRA
 # - PREFERIR: variantes que quedan primero, después del color (SM = sobre mesada, antes que BM = bajo mesada)
 PREFERIR;SM;BM
+# - TRADUCIR: aclaración en castellano que se muestra entre paréntesis en los botones
+TRADUCIR;NERO=Negro;BIANCO=Blanco;GRIGIO=Gris;TERRA=Tierra;SM=Sobre mesada;BM=Bajo mesada
 # - OCULTAR: productos que contienen estos textos no se muestran en la app (separar con ;)
 OCULTAR;C/LAP
 PSA SENIOR 4;PSA SENIOR 4 + KIT POSV.;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
