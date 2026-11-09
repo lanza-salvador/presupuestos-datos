@@ -1,0 +1,22 @@
+Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-02;2026-11-11;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
+Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-02;2026-11-11;;Solo por MODO. No acumulable
+Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-02;2026-11-11;;Solo por MODO. No acumulable
+Banco Hipotecario (Visa y Mastercard);9,12;2026-11-02;2026-11-11;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
+Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-02;2026-11-10;10;Solo por MODO. 10 % de reintegro sin tope sobre el precio de contado. Cliente al día. No acumulable
+Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-09;2026-11-11;;Solo por MODO. No acumulable
+BBVA (Visa y Mastercard);3,6,9,12;2026-11-02;2026-11-11;;Solo por MODO
+Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-02;2026-11-11;;10 % de reintegro solo en 18 cuotas. Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras
+American Express (emitidas por American Express);3,6,9,12;2026-11-02;2026-11-11;;No acumulable
+Cabal Credicoop;3,6,9,12,18;2026-11-05;2026-11-11;;Solo por MODO, sobre precio de contado
+Tarjeta Naranja / Naranja X;6,9,12;2026-11-09;2026-11-11;;También Plan Zeta. Solo por Link de Pago. No participan tarjetas 402917 y 402918
+Tarjeta Patagonia 365;3,6,12;2026-11-02;2026-11-11;;
+Tarjeta Tuya;3,5,9;2026-11-02;2026-11-11;;
+Tarjeta Data;2,3,6;2026-11-02;2026-11-11;;
+Banco del Sol (Mastercard);15,18;2026-11-02;2026-11-11;;
+Tarjeta Sol;3,6,9,12;2026-11-02;2026-11-11;;
+
+# Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
+# Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
+# Vigencia del documento: 9 de noviembre de 2026
+# Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
+# Confirmado por Salvador (09/11/2026): Cabal Credicoop sin 15 cuotas (cuando legal e imagen no coinciden, se omite esa cuota). Tuya 3, 5 y 9 es correcto. Cuota Simple de 3 a 18 por MODO.
