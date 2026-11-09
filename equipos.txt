@@ -4,6 +4,8 @@
 # - ? = dato desconocido. No usar ; dentro de los textos.
 # - COLORES: orden en que se ofrecen los colores. El primero queda seleccionado por defecto.
 COLORES;NERO;GRIGIO;BIANCO;TERRA
+# - OCULTAR: productos que contienen estos textos no se muestran en la app (separar con ;)
+OCULTAR;C/LAP
 PSA SENIOR 4;PSA SENIOR 4 + KIT POSV.;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
 PSA SENIOR BIANCO;PSA SENIOR BIANCO + KIT POSV.;Purificador;36000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
 PSA SENIOR 4 BM;PSA SENIOR 4 BM + KIT POSV. (bajo mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
