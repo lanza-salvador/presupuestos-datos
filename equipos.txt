@@ -10,9 +10,9 @@ PREFERIR;SM;BM
 TRADUCIR;NERO=Negro;BIANCO=Blanco;GRIGIO=Gris;TERRA=Tierra;SM=Sobre mesada;BM=Bajo mesada
 # - OCULTAR: productos que contienen estos textos no se muestran en la app (separar con ;)
 OCULTAR;C/LAP
-PSA SENIOR 4;PSA SENIOR 4 + KIT POSV.;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+PSA SENIOR 4;PSA SENIOR 4 SM + KIT POSV. (sobre mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
 PSA SENIOR BIANCO;PSA SENIOR BIANCO + KIT POSV.;Purificador;36000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
-PSA SENIOR 4 BM;PSA SENIOR 4 BM + KIT POSV. (bajo mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+PSA SENIOR 4 BM;PSA SENIOR 4 BM BIANCO + KIT POSV. (bajo mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
 PSA VERO;PSA VERO + KIT POSV.;Purificador;15000;18;18;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
 PSA MINI;PSA MINI + KIT POSV.;Purificador;12000;12;12;Disminuye los efectos del cloro y de diversas impurezas.
 PSA S-1000 2;PSA S-1000 2 + POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
