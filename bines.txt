@@ -6,8 +6,9 @@ Banco Galicia (Visa, Mastercard y Amex);454640,454641,454642,433830,459354,37159
 Banco Macro (Visa, Amex y Mastercard);371594,377779,377805,377806,450843,450844,450972,450997,457509,469700,469771,476604,484198,491956,511739,511740,525455,525425,549051,549020,549828,522972,523758,549012,548998,550230,553649,455599,519711,519710,476605,433817,476606,485011
 BBVA (Visa y Mastercard);454074,454075,454073,433831,470455,451759,401696,454622,526070,530363,529329,547059,554288,521373,523920,516585,553633
 Banco Provincia - Bapro (Visa y Mastercard);541719,541646,548790,557497,553668,527613,454832,454850,451275,454846,489321
-Tarjeta Naranja / Naranja X;-402917,-402918
+Tarjeta Naranja / Naranja X;589562,-402917,-402918
 
 # Formato: Tarjeta (igual que en financiacion.txt);primeros 6 números de las tarjetas que participan, separados por coma
 # Un número con "-" adelante significa que esa tarjeta NO participa (ej: Naranja 402917 y 402918)
 # Fuente: PDF de legales del 09/11/2026. Los bancos sin números en el legal (Amex propias, Cabal, regionales) se eligen a mano.
+# Naranja común (589562) participa; Naranja Visa y Naranja Mastercard (402917, 402918) NO participan. El 589562 no figura en el legal: lo agregó Salvador.
