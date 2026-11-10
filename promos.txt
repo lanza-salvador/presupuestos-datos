@@ -22,10 +22,10 @@ PSA S-1000 2 SM BIANCO + POSV.;10;2026-11-09;2026-11-12;Promo 10 % de descuento
 PSA S-1000 2 SM BIANCO + POSV. Plan canje;10;2026-11-09;2026-11-12;Promo 10 % de descuento
 PSA S-1000 2 SM NERO + POSV.;10;2026-11-09;2026-11-12;Promo 10 % de descuento
 PSA S-1000 2 SM NERO + POSV. Plan canje;10;2026-11-09;2026-11-12;Promo 10 % de descuento
+PSA IONTRIX 3;25;2026-11-09;2026-11-15;Promo 25 % de descuento
+PSA IONTRIX 3 Plan canje;25;2026-11-09;2026-11-15;Promo 25 % de descuento
 
 # Formato: Nombre exacto del producto (como en la lista de PSA);Descuento %;Desde;Hasta (inclusive);Texto para el presupuesto
 # Una línea por producto. Si un producto está en dos promos a la vez, se aplica el mayor descuento.
 # Promo 1: Senior 4, Quantum 2 y S-1000 2 (SM y BM, normal y canje) - 10 % del 09/11 al 12/11/2026
-# Promo 2: IONTRIX - 25 % del 09/11 al 15/11/2026 -> PENDIENTE: en la lista de PSA figura IONTRIX 3, no IONTRIX 2. Confirmar.
-# PSA IONTRIX 3;25;2026-11-09;2026-11-15;Promo 25 % de descuento
-# PSA IONTRIX 3 Plan canje;25;2026-11-09;2026-11-15;Promo 25 % de descuento
+# Promo 2: IONTRIX 3 (normal y canje) - 25 % del 09/11 al 15/11/2026
