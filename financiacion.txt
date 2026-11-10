@@ -1,54 +1,22 @@
-INSTRUCCIONES PARA GENERAR financiacion.txt
-(Copiar todo este texto en un chat nuevo con Claude y adjuntar:
- 1) el PDF "Legales de convenios y promociones con tarjetas de crédito" de PSA
- 2) las imágenes (piezas gráficas) de cuotas por banco del mismo período)
+Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-02;2026-11-11;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
+Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-02;2026-11-11;;Solo por MODO. No acumulable
+Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-02;2026-11-11;;Solo por MODO. No acumulable
+Banco Hipotecario (Visa y Mastercard);9,12;2026-11-02;2026-11-11;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
+Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-02;2026-11-10;10;Solo por MODO. 10 % de reintegro sin tope sobre el precio de contado. Cliente al día. No acumulable
+Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-09;2026-11-11;;Solo por MODO. No acumulable
+BBVA (Visa y Mastercard);3,6,9,12;2026-11-02;2026-11-11;;Solo por MODO
+Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-02;2026-11-11;;10 % de reintegro solo en 18 cuotas. Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras
+American Express (emitidas por American Express);3,6,9,12;2026-11-02;2026-11-11;;No acumulable
+Cabal Credicoop;3,6,9,12,18;2026-11-05;2026-11-11;;Solo por MODO, sobre precio de contado
+Tarjeta Naranja / Naranja X;6,9,12;2026-11-09;2026-11-11;;También Plan Zeta. Solo por Link de Pago. No participan tarjetas 402917 y 402918
+Tarjeta Patagonia 365;3,6,12;2026-11-02;2026-11-11;;
+Tarjeta Tuya;3,5,9;2026-11-02;2026-11-11;;
+Tarjeta Data;2,3,6;2026-11-02;2026-11-11;;
+Banco del Sol (Mastercard);15,18;2026-11-02;2026-11-11;;
+Tarjeta Sol;3,6,9,12;2026-11-02;2026-11-11;;
 
-------------------------------------------------------------------------
-
-Te adjunto el PDF de legales de financiación de PSA y las piezas gráficas del mismo período. Necesito que generes el contenido del archivo financiacion.txt para mi app de presupuestos, siguiendo EXACTAMENTE estas reglas.
-
-FUENTES
-- Usá el PDF para fechas, condiciones y exclusiones.
-- Usá las imágenes para la cantidad de cuotas cuando el PDF no las indica.
-- Si el PDF y una imagen no coinciden en las cuotas, dejá SOLO las cuotas que aparecen en los dos y anotá la diferencia en la sección de dudas.
-  (Ejemplo: imagen 3,6,9,12,15,18 y legal 3,6,9,12,18 -> 3,6,9,12,18.)
-
-FORMATO
-- Una línea por cada tarjeta o banco, en este orden: primero "Cuota Simple PSA", después bancos, después tarjetas regionales.
-- Campos separados por punto y coma (;), sin espacios antes ni después del ;
-- No uses el carácter ; dentro de ningún campo.
-- Sin encabezados, sin comillas, sin líneas en blanco entre los datos.
-
-CAMPOS (en este orden)
-1. Tarjeta: nombre claro del banco o tarjeta y las marcas que incluye. Ejemplo: "Banco Galicia (Visa, Mastercard y Amex)".
-   La primera línea siempre es: "Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio)",
-   porque los bancos sin acuerdo específico se tratan como Cuota Simple.
-2. Cuotas: cantidades de cuotas sin interés, separadas por coma y sin espacios. Ejemplo: 3,6,9,12
-3. Desde: fecha de inicio en formato AAAA-MM-DD.
-4. Hasta: fecha de fin (inclusive) en formato AAAA-MM-DD.
-5. Reintegro: porcentaje de reintegro o descuento que da el banco (solo el número, ej: 10). Vacío si no hay.
-   Si el reintegro aplica solo a algunas cuotas, dejalo vacío y explicalo en Notas.
-6. Notas: condiciones importantes en una frase corta (solo por MODO, solo por Link de Pago, zona, exclusiones, no acumulable). Máximo 140 caracteres.
-
-REGLAS IMPORTANTES
-- NO inventes datos. Si ni el PDF ni las imágenes indican un dato, escribí ? en ese campo.
-- No incluyas los números de tarjeta (BIN) ni las tasas TNA/TEA/CFT.
-- Usá el año que corresponde según el documento.
-
-DESPUÉS DE LAS LÍNEAS DE DATOS
-Agregá una línea en blanco y luego una sección de control, con cada línea empezando con #:
 # Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
-# Vigencia del documento: (fecha que figura en el PDF)
-# Pendientes de completar: tarjetas con algún campo en ?
-# Dudas: diferencias entre el PDF y las imágenes, o textos ambiguos
-
-Devolveme el resultado completo dentro de un único bloque de código, listo para copiar y pegar.
-
-SEGUNDO ARCHIVO: bines.txt
-Después, en OTRO bloque de código, generá el contenido de bines.txt con los primeros 6 números de tarjeta que figuran en el PDF:
-- Una línea por banco o tarjeta: el nombre EXACTAMENTE igual al primer campo de financiacion.txt, un punto y coma, y los números separados por coma, sin espacios.
-- Si el PDF dice que ciertas tarjetas NO participan, poné esos números con un "-" adelante (ej: -402917).
-- Sin números repetidos. Si un banco no tiene números en el PDF, no lo incluyas.
-- Al final, estas líneas de control:
-# Formato: Tarjeta (igual que en financiacion.txt);primeros 6 números de las tarjetas que participan, separados por coma
-# Un número con "-" adelante significa que esa tarjeta NO participa
+# Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
+# Vigencia del documento: 9 de noviembre de 2026
+# Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
+# Confirmado por Salvador (09/11/2026): Cabal Credicoop sin 15 cuotas (cuando legal e imagen no coinciden, se omite esa cuota). Tuya 3, 5 y 9 es correcto. Cuota Simple de 3 a 18 por MODO.
