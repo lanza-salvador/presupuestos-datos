@@ -10,5 +10,5 @@ Tarjeta Naranja / Naranja X;589562,-402917,-402918
 
 # Formato: Tarjeta (igual que en financiacion.txt);primeros 6 números de las tarjetas que participan, separados por coma
 # Un número con "-" adelante significa que esa tarjeta NO participa (ej: Naranja 402917 y 402918)
-# Fuente: PDF de legales del 09/11/2026. Los bancos sin números en el legal (Amex propias, Cabal, regionales) se eligen a mano.
-# Naranja común (589562) participa; Naranja Visa y Naranja Mastercard (402917, 402918) NO participan. El 589562 no figura en el legal: lo agregó Salvador.
+# Fuente: PDF de legales del 12/11/2026. Naranja común (589562) participa. Cordobesa Mastercard (542702, 544764, 550073) va con Cuota Simple.
+# Los bancos sin números en el legal (Amex propias, Cabal, regionales) se eligen a mano.
