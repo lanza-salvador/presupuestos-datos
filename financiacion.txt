@@ -5,7 +5,7 @@ Banco Hipotecario (Visa y Mastercard);9,12;2026-11-12;2026-11-23;;Solo por MODO.
 Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. Cliente al día. No acumulable
 Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
 BBVA (Visa y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO
-Banco Provincia - Bapro (Visa y Mastercard);18;2026-11-12;2026-11-23;;Reintegro solo en 18 cuotas. Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras
+Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-12;2026-11-23;;Reintegro solo en 18 cuotas. Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras
 American Express (emitidas por American Express);3,6,9,12;2026-11-12;2026-11-23;;No acumulable
 Cabal Credicoop;3,6,9,12,18;2026-11-12;2026-11-23;;Solo por MODO, sobre precio de contado
 Tarjeta Naranja / Naranja X;6,9,12,Z;2026-11-12;2026-11-23;;No se puede pagar por MODO. No participan Naranja Visa ni Naranja Mastercard (402917 y 402918)
@@ -19,7 +19,7 @@ Tarjeta Sol;3,6,9,12;2026-11-12;2026-11-23;;
 # Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
 # Vigencia del documento: 12 de noviembre de 2026 (del 12 al 23/11/2026)
 # Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
-# Dudas: Bapro: el legal dice 3 a 18 cuotas y la pieza solo 18. Se dejó 18. La pieza no dice el % de reintegro.
+# Bapro: el legal dice 3 a 18 y la pieza solo 18; en ATM aparecen 3, 6, 9, 12, 15 y 18 (verificado por Salvador 12/11/2026). La pieza no dice el % de reintegro.
 # Naranja: la pieza menciona "Plan Zeta 11 cuotas", pero en ATM figura "Plan Z 1 cuota". Se mantiene la Z (confirmado por Salvador 12/11/2026).
 # Dudas: Data: el legal dice "desde el jueves 23"; la pieza dice desde el 12. Se usó el 12.
 # Dudas: Galicia ya no tiene el 10 % de reintegro del período anterior (no figura en el legal ni en la pieza).
