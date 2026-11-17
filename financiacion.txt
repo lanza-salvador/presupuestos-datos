@@ -6,10 +6,10 @@ Banco Hipotecario (Visa y Mastercard);9,12;2026-11-12;2026-11-23;;Solo por MODO.
 Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. Cliente al día. No acumulable
 Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
 BBVA (Visa y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO
-Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-12;2026-11-23;;Reintegro solo en 18 cuotas. Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras
+Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras.
 American Express (emitidas por American Express);3,6,9,12;2026-11-12;2026-11-23;;No acumulable
 Cabal Credicoop;3,6,9,12,18;2026-11-12;2026-11-23;;Solo por MODO, sobre precio de contado
-Tarjeta Naranja / Naranja X;6,9,12,Z;2026-11-12;2026-11-23;;No se puede pagar por MODO. No participan Naranja Visa ni Naranja Mastercard (402917 y 402918)
+Tarjeta Naranja / Naranja X;6,Z;2026-11-16;2026-11-18;;Solo pago online (ATM > Link de pago). No participan 402917 ni 402918.
 Tarjeta Patagonia 365;3,6,12;2026-11-12;2026-11-23;;
 Tarjeta Tuya;3,5,9;2026-11-12;2026-11-23;;
 Tarjeta Data;2,3,6;2026-11-12;2026-11-23;;
@@ -19,4 +19,4 @@ Tarjeta Sol;3,6,9,12;2026-11-12;2026-11-23;;
 # Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
 # Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
 # Cuotas: una Z al final significa que la tarjeta también tiene Plan Z (Naranja).
-# Generado con CardonesAdmin el 17/11/2026 09:13
+# Generado con CardonesAdmin el 17/11/2026 10:23
