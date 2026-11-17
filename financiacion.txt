@@ -1,4 +1,5 @@
 Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
+Tarjeta Naranja X – 12 cuotas + 10 % reintegro;12;2026-11-16;2026-11-18;10;10 % de reintegro SIN TOPE, solo en 12 cuotas, en el resumen. Solo pago online (ATM > Link de pago). No participan 402917 ni 402918.
 Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
 Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
 Banco Hipotecario (Visa y Mastercard);9,12;2026-11-12;2026-11-23;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
@@ -17,9 +18,5 @@ Tarjeta Sol;3,6,9,12;2026-11-12;2026-11-23;;
 
 # Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
 # Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
-# Vigencia del documento: 12 de noviembre de 2026 (del 12 al 23/11/2026)
-# Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
-# Bapro: el legal dice 3 a 18 y la pieza solo 18; en ATM aparecen 3, 6, 9, 12, 15 y 18 (verificado por Salvador 12/11/2026). La pieza no dice el % de reintegro.
-# Naranja: la pieza menciona "Plan Zeta 11 cuotas", pero en ATM figura "Plan Z 1 cuota". Se mantiene la Z (confirmado por Salvador 12/11/2026).
-# Dudas: Data: el legal dice "desde el jueves 23"; la pieza dice desde el 12. Se usó el 12.
-# Dudas: Galicia ya no tiene el 10 % de reintegro del período anterior (no figura en el legal ni en la pieza).
+# Cuotas: una Z al final significa que la tarjeta también tiene Plan Z (Naranja).
+# Generado con CardonesAdmin el 17/11/2026 09:13
