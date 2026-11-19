@@ -1,5 +1,5 @@
-# Título;Archivo;Descripción;Versión;Tamaño
+# Título;Archivo;Descripción;Versión;Tamaño;Campos que se completan con Mis datos
 Solicitud de adhesión;solicitud-adhesion.pdf;Contrato para sumar un distribuidor nuevo. Se completa en el celular o se imprime (4 hojas, tamaño oficio).;2026-11-18;0,7 MB
-Tarjetas personales;tarjeta-personal.pdf;Completás tus datos una vez y se llenan las 10 tarjetas de la hoja A4.;2026-11-18;3,3 MB
-Calco DIP;calco-dip.pdf;Calco identificador del distribuidor, con tus datos de contacto.;2026-11-18;0,9 MB
+Tarjetas personales;tarjeta-personal.pdf;Las 10 tarjetas de la hoja A4, listas para imprimir.;2026-11-18;3,3 MB;Nombre y apellido={nombre}|DIP={centro}-{dip}|e-mail={email}|Teléfono 1={telefono}
+Imán para el cliente;calco-dip.pdf;Tarjeta magnética con tus datos y el aviso de cambio del vaso filtrante (6 por hoja).;2026-11-18;0,9 MB;nombre={nombre}|centro={centro}|numero={dip}|telefono={telefono}|mail={email}
 Guía de adaptadores;guia-adaptadores.pdf;Qué adaptador corresponde según la canilla (65 páginas).;2026-11-18;7,6 MB
