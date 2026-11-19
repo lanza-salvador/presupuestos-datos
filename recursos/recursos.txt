@@ -1,0 +1,5 @@
+# Título;Archivo;Descripción;Versión;Tamaño
+Solicitud de adhesión;solicitud-adhesion.pdf;Contrato para sumar un distribuidor nuevo. Se completa en el celular o se imprime (4 hojas, tamaño oficio).;2026-11-18;0,7 MB
+Tarjetas personales;tarjeta-personal.pdf;Completás tus datos una vez y se llenan las 10 tarjetas de la hoja A4.;2026-11-18;3,3 MB
+Calco DIP;calco-dip.pdf;Calco identificador del distribuidor, con tus datos de contacto.;2026-11-18;0,9 MB
+Guía de adaptadores;guia-adaptadores.pdf;Qué adaptador corresponde según la canilla (65 páginas).;2026-11-18;7,6 MB
