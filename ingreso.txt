@@ -1,0 +1,26 @@
+# AquaPresu: opciones de ingreso a PSA. Acá va solo QUÉ LLEVA cada opción y la percepción
+# de Ingresos Brutos por provincia: los precios, los PB y las cuotas los calcula la app con la lista de PSA.
+# Sin datos de clientes ni costos: puede ser público.
+#
+# KIT;nombre que se muestra;nombre en la lista de PSA
+KIT;Portátil;KIT DE ACCESO C/PORTATIL ARG.
+KIT;Mini;KIT DE ACCESO C/MINI BIANCO ARG.
+#
+# OPCION;título;productos (además del kit)
+#   - {kit} en el título se reemplaza por Portátil o Mini
+#   - Si el título empieza con *, la opción va destacada y abajo se detalla qué incluye
+#   - Productos: cantidad x nombre en la lista de PSA = cómo se muestra, separados por |
+OPCION;Kit de Acceso c/{kit} + Vero;1 x PSA VERO BIANCO + KIT POSV. = Vero Bianco
+OPCION;Kit de Acceso c/{kit} + Senior Bianco;1 x PSA SENIOR BIANCO + KIT POSV. = Senior Bianco
+OPCION;Kit de Acceso c/{kit} + Senior 4;1 x PSA SENIOR 4 NERO + KIT POSV. = Senior 4 + Kit
+OPCION;*Promocionado;1 x PSA VERO BIANCO + KIT POSV. = Vero Bianco|1 x PSA SENIOR 4 NERO + KIT POSV. = Senior 4 + Kit Nero|1 x PSA SENIOR 4 GRIGIO + KIT POSV = Senior 4 + Kit Grigio|1 x PSA RINNOVA NERO C/KDF-POLI = Rinnova con KDF + Polif. Nero
+OPCION;*Pasa a Distribuidor;1 x PSA VERO BIANCO + KIT POSV. = Vero Bianco|1 x PSA SENIOR 4 BIANCO + KIT POSV. = Senior 4 + Kit Bianco|1 x PSA SENIOR 4 NERO + KIT POSV. = Senior 4 + Kit Nero|1 x PSA SENIOR 4 GRIGIO + KIT POSV = Senior 4 + Kit Grigio|1 x PSA RINNOVA NERO C/KDF-POLI = Rinnova con KDF + Polif. Nero|1 x PSA SODA BURBY TERRA = Soda Burby Terra
+#
+# PROVINCIA;provincia (escrita como en Mis datos);sucursal donde compra;% de percepción de Ingresos Brutos
+#   - El % se calcula sobre el precio de lista sin IVA
+#   - Si no hay ninguna línea PROVINCIA, la hoja sale sin Ingresos Brutos y sin elegir provincia
+PROVINCIA;Catamarca;Córdoba (02);0
+PROVINCIA;La Rioja;Córdoba (02);0
+PROVINCIA;Santiago del Estero;Córdoba (02);0
+#
+# NOTA;texto de abajo de la hoja (opcional: si no está, va el de siempre)
