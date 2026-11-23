@@ -2,9 +2,11 @@
 # No tiene datos de clientes: solo letras, códigos y nombres de productos.
 #
 # C;código del archivo de garantías de PSA;nombre en la lista de precios (si puede ser más de uno, separados por |)
+# Ojo: SEN4BLAC es Senior 4 BLACK (Nero), no Bianco. El Senior 4 Bianco es SENIOR4B. (corregido 23/11/2026)
 C;VERO BIA;PSA VERO BIANCO + KIT POSV.
 C;SEN BIAN;PSA SENIOR BIANCO + KIT POSV.
-C;SEN4BLAC;PSA SENIOR 4 BIANCO + KIT POSV.
+C;SEN4BLAC;PSA SENIOR 4 NERO + KIT POSV.
+C;SENIOR4B;PSA SENIOR 4 BIANCO + KIT POSV.
 C;SEN4GRIS;PSA SENIOR 4 GRIGIO + KIT POSV
 C;SEN 4 BM;PSA SENIOR 4 BM + KIT POSV
 C;S1000N;PSA S-1000 2 SM NERO + POSV.
@@ -33,6 +35,7 @@ L;HAA;SEN4GRIS;8
 L;HAB;SEN4GRIS;3
 L;HAC;SEN4GRIS;2
 L;GAA;SEN 4 BM;2
+L;BAB;SENIOR4B;1
 L;JK;S10002SM;6
 L;SJ;S10002SM;1
 L;JL;S10002SM;1
