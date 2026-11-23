@@ -25,6 +25,7 @@ C;OSMOSIS;PSA OSMOSIS ROPOT
 # L;letras de la serie;código;cuántos equipos (de los archivos de garantías del equipo, 20/11/2026)
 L;MAC;S1000N;25
 L;MAA;S1000B;1
+L;MAB;S10002BM;1
 L;HTA;SEN BIAN;18
 L;HTB;SEN BIAN;1
 L;CAA;SEN4BLAC;12
