@@ -37,6 +37,7 @@ VIDEO;PSA MINI;https://youtu.be/uAvFgZSIC4Y;Mini
 VIDEO;PSA AIRPURIFIER;https://youtu.be/zSLVEdH_RI8;Purificador de aire
 VIDEO;PSA RINNOVA;https://youtu.be/lM2XjEVCPFI;Rinnova
 VIDEO;PSA OSMOSIS ROTECH;https://youtu.be/nryM36xpIKY;Rotech UV (ósmosis inversa)
+VIDEO;PSA SODA BURBY;https://youtu.be/f4POVxDDM9A;Soda Burby (gasificador de agua)
 
 # Fuente de los datos: catalogo.psa.com.ar (08/11/2026)
 # Revisar: SENIOR BIANCO y VERO figuran como "modelo discontinuado" en el catálogo
