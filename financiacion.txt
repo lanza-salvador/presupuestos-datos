@@ -1,22 +1,27 @@
-Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
-Tarjeta Naranja X – 12 cuotas + 10 % reintegro;12;2026-11-16;2026-11-18;10;10 % de reintegro SIN TOPE, solo en 12 cuotas, en el resumen. Solo pago online (ATM > Link de pago). No participan 402917 ni 402918.
-Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
-Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
-Banco Hipotecario (Visa y Mastercard);9,12;2026-11-12;2026-11-23;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
-Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. Cliente al día. No acumulable
-Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO. No acumulable
-BBVA (Visa y Mastercard);3,6,9,12;2026-11-12;2026-11-23;;Solo por MODO
-Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-12;2026-11-23;;Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras.
-American Express (emitidas por American Express);3,6,9,12;2026-11-12;2026-11-23;;No acumulable
-Cabal Credicoop;3,6,9,12,18;2026-11-12;2026-11-23;;Solo por MODO, sobre precio de contado
-Tarjeta Naranja / Naranja X;6,Z;2026-11-16;2026-11-18;;Solo pago online (ATM > Link de pago). No participan 402917 ni 402918.
-Tarjeta Patagonia 365;3,6,12;2026-11-12;2026-11-23;;
-Tarjeta Tuya;3,5,9;2026-11-12;2026-11-23;;
-Tarjeta Data;2,3,6;2026-11-12;2026-11-23;;
-Banco del Sol (Mastercard);15,18;2026-11-12;2026-11-23;;
-Tarjeta Sol;3,6,9,12;2026-11-12;2026-11-23;;
+Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
+Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo por MODO. No acumulable. No débito de caja de ahorro gratuita
+Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. No acumulable
+Banco Hipotecario (Visa y Mastercard);9,12;2026-11-24;2026-11-30;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
+Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. Cliente al día. No acumulable
+Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. No acumulable
+BBVA (Visa y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO
+Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras. No acumulable. No Visa Corporate ni Business
+American Express (emitidas por American Express);3,6,9,12;2026-11-24;2026-11-30;;No por MODO. No acumulable
+Cabal Credicoop;3,6,9,12,18;2026-11-24;2026-11-30;;Solo por MODO, sobre precio de contado
+Tarjeta Naranja / Naranja X;6,9,Z;2026-11-24;2026-11-30;;Solo por Link de Pago. No participan 402917 ni 402918. Plan Zeta: no es sin interés (lo financia la entidad)
+Tarjeta Patagonia 365;3,6,12;2026-11-24;2026-11-30;;
+Tarjeta Tuya;3,5,9;2026-11-24;2026-11-30;;
+Tarjeta Data;2,3,6;2026-11-24;2026-11-30;;
+Banco del Sol (Mastercard);15,18;2026-11-24;2026-11-30;;
+Tarjeta Sol;3,6,9,12;2026-11-24;2026-11-30;;
 
 # Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
 # Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
-# Cuotas: una Z al final significa que la tarjeta también tiene Plan Z (Naranja).
-# Generado con CardonesAdmin el 17/11/2026 10:23
+# Vigencia del documento: 24 de noviembre de 2026 (del martes 24 al lunes 30/11/2026)
+# Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
+# Pendientes de completar: ninguno
+# Dudas: Cabal: la pieza dice 3, 6, 9, 12, 15 y 18 y el legal 3, 6, 9, 12 y 18. Se dejó sin la 15 (solo las que están en los dos).
+# Dudas: Hipotecario: la pieza muestra solo Visa y el legal dice Visa y Mastercard. El legal no nombra MODO (la pieza dice exclusivo MODO).
+# Dudas: Bapro ya no tiene reintegro (no figura en el legal ni en la pieza). La pieza dice todos los medios de pago de PSA menos MODO.
+# Dudas: Naranja: la pieza dice Plan Zeta 11 cuotas con interés; en ATM figuraba "Plan Z 1 cuota". Se mantiene la Z.
+# Dudas: Patagonia 365: el legal solo dice "hasta el 30-11-2026"; se tomó desde el 24.
