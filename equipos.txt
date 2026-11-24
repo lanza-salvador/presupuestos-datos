@@ -28,6 +28,15 @@ PSA STOPPER;PSA STOPPER;Prefiltro;?;?;6;Retiene partículas gruesas en suspensi�
 PSA OSMOSIS ROPOT;PSA ÓSMOSIS ROPOT;Ósmosis inversa;?;?;36;Reduce más de un contaminante a la vez mediante ósmosis inversa, carbón activado y prefiltro. Portátil.
 PSA OSMOSIS ROTECH;PSA ÓSMOSIS ROTECH UV;Ósmosis inversa;?;?;?;
 PSA AIRPURIFIER;PSA AIRPURIFIER 220V;Purificador de aire;?;?;?;
+# - VIDEO: video del equipo (para mandarlo con el presupuesto o desde Garantías). VIDEO;inicio del nombre;link;título
+VIDEO;PSA SENIOR 4;https://youtu.be/76v53GxDRvw;Senior 4
+VIDEO;PSA SENIOR BIANCO;https://youtu.be/__ISvWioYow;Senior Bianco
+VIDEO;PSA VERO;https://youtu.be/EEXBGZNXAYg;Vero
+VIDEO;PSA S-1000 2;https://youtu.be/BS7UWVGkyXY;S-1000 2
+VIDEO;PSA MINI;https://youtu.be/uAvFgZSIC4Y;Mini
+VIDEO;PSA AIRPURIFIER;https://youtu.be/zSLVEdH_RI8;Purificador de aire
+VIDEO;PSA RINNOVA;https://youtu.be/lM2XjEVCPFI;Rinnova
+VIDEO;PSA OSMOSIS ROTECH;https://youtu.be/nryM36xpIKY;Rotech UV (ósmosis inversa)
 
 # Fuente de los datos: catalogo.psa.com.ar (08/11/2026)
 # Revisar: SENIOR BIANCO y VERO figuran como "modelo discontinuado" en el catálogo
