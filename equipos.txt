@@ -5,22 +5,25 @@
 #   Palabras del nombre, sin "PSA". | separa dos formas de escribir lo mismo (ej: ABLANDADOR|DOMUS).
 #   * = los que no están nombrados, en el orden de la lista de PSA. Si coinciden varias, gana la más larga.
 #   Sacar una palabra NO oculta ningún producto: solo lo manda al lugar del *. Para ocultar, OCULTAR.
-ORDEN;SENIOR 4;SENIOR BIANCO;SENIOR 4 BM;S-1000;QUANTUM;VERO;MINI;RINNOVA;PORTATIL;*;ABLANDADOR|DOMUS
+ORDEN;SENIOR 4;SENIOR BIANCO;SENIOR 4 BM;S-1000;S-1000 2 BM;QUANTUM;VERO;MINI;RINNOVA;PORTATIL;*;ABLANDADOR|DOMUS
 # - COLORES: orden en que se ofrecen los colores. El primero queda seleccionado por defecto.
 COLORES;NERO;GRIGIO;BIANCO;TERRA
 # - PREFERIR: variantes que quedan primero, después del color (SM = sobre mesada, antes que BM = bajo mesada)
 PREFERIR;SM;BM
-# - TRADUCIR: aclaración en castellano que se muestra entre paréntesis en los botones
-TRADUCIR;NERO=Negro;BIANCO=Blanco;GRIGIO=Gris;TERRA=Tierra;SM=Sobre mesada;BM=Bajo mesada
+# - TRADUCIR: aclaración en castellano que se muestra entre paréntesis (al cambiar un producto desde el presupuesto)
+TRADUCIR;NERO=Negro;BIANCO=Blanco;GRIGIO=Gris;TERRA=Tierra
 # - OCULTAR: productos que contienen estos textos no se muestran en la app (separar con ;)
 OCULTAR;C/LAP
 # - Fichas: en el mismo orden que la línea ORDEN (las versiones anteriores de la app ordenan el presupuesto por estas líneas).
 #   Si se borra una ficha, el producto sigue en la app, pero sin sus datos y fuera de "Equipos principales" del presupuesto.
-PSA SENIOR 4;PSA SENIOR 4 SM + KIT POSV. (sobre mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+#   SM y BM van en fichas separadas (cada uno con su tarjeta en el presupuesto): el prefijo más largo gana.
+PSA SENIOR 4;PSA SENIOR 4 SM + KIT POSV.;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
 PSA SENIOR BIANCO;PSA SENIOR BIANCO + KIT POSV.;Purificador;36000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
-PSA SENIOR 4 BM;PSA SENIOR 4 BM BIANCO + KIT POSV. (bajo mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
-PSA S-1000 2;PSA S-1000 2 + KIT POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
-PSA QUANTUM;PSA QUANTUM 2 + KIT POSV.;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
+PSA SENIOR 4 BM;PSA SENIOR 4 BM + KIT POSV.;Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+PSA S-1000 2;PSA S-1000 2 SM + KIT POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA S-1000 2 BM;PSA S-1000 2 BM + KIT POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA QUANTUM;PSA QUANTUM 2 SM + KIT POSV.;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
+PSA QUANTUM 2 BM;PSA QUANTUM 2 BM + KIT POSV.;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
 PSA VERO;PSA VERO + KIT POSV.;Purificador;15000;18;18;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
 PSA MINI;PSA MINI + KIT POSV.;Purificador;12000;12;12;Disminuye los efectos del cloro y de diversas impurezas.
 PSA RINNOVA;PSA RINNOVA (ducha);Filtro de ducha;?;?;?;
