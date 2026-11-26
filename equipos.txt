@@ -1,7 +1,11 @@
 # Formato: Prefijo;Nombre a mostrar;Tipo;Litros de vida útil;Meses de vida útil;Meses de garantía;Beneficios
 # - Prefijo: cómo empieza el nombre en la lista de PSA. Agrupa colores y variantes (BIANCO, NERO, SM/BM...).
-# - El ORDEN de las líneas es el orden en que aparecen en la app.
 # - ? = dato desconocido. No usar ; dentro de los textos.
+# - ORDEN: orden de los productos en toda la app, de los que más se venden a los que menos.
+#   Palabras del nombre, sin "PSA". | separa dos formas de escribir lo mismo (ej: ABLANDADOR|DOMUS).
+#   * = los que no están nombrados, en el orden de la lista de PSA. Si coinciden varias, gana la más larga.
+#   Sacar una palabra NO oculta ningún producto: solo lo manda al lugar del *. Para ocultar, OCULTAR.
+ORDEN;SENIOR 4;SENIOR BIANCO;SENIOR 4 BM;S-1000;QUANTUM;VERO;MINI;RINNOVA;PORTATIL;*;ABLANDADOR|DOMUS
 # - COLORES: orden en que se ofrecen los colores. El primero queda seleccionado por defecto.
 COLORES;NERO;GRIGIO;BIANCO;TERRA
 # - PREFERIR: variantes que quedan primero, después del color (SM = sobre mesada, antes que BM = bajo mesada)
@@ -10,38 +14,37 @@ PREFERIR;SM;BM
 TRADUCIR;NERO=Negro;BIANCO=Blanco;GRIGIO=Gris;TERRA=Tierra;SM=Sobre mesada;BM=Bajo mesada
 # - OCULTAR: productos que contienen estos textos no se muestran en la app (separar con ;)
 OCULTAR;C/LAP
+# - Fichas: en el mismo orden que la línea ORDEN (las versiones anteriores de la app ordenan el presupuesto por estas líneas).
+#   Si se borra una ficha, el producto sigue en la app, pero sin sus datos y fuera de "Equipos principales" del presupuesto.
 PSA SENIOR 4;PSA SENIOR 4 SM + KIT POSV. (sobre mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
 PSA SENIOR BIANCO;PSA SENIOR BIANCO + KIT POSV.;Purificador;36000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
 PSA SENIOR 4 BM;PSA SENIOR 4 BM BIANCO + KIT POSV. (bajo mesada);Purificador;36000;36;36;Retiene más del 90 % del cloro, más del 70 % de los trihalometanos y más del 97 % de los microplásticos. Reduce metales pesados como plomo y hierro.
+PSA S-1000 2;PSA S-1000 2 + KIT POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
+PSA QUANTUM;PSA QUANTUM 2 + KIT POSV.;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
 PSA VERO;PSA VERO + KIT POSV.;Purificador;15000;18;18;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
 PSA MINI;PSA MINI + KIT POSV.;Purificador;12000;12;12;Disminuye los efectos del cloro y de diversas impurezas.
-PSA S-1000 2;PSA S-1000 2 + KIT POSV.;Purificador;80000;36;36;Reduce más del 90 % del cloro y más del 60 % de los trihalometanos, además de hierro y plomo.
-PSA QUANTUM 2 + KIT POSV.;PSA QUANTUM 2;Purificador;30000;36;36;Retiene cloro y trihalometanos y reduce la dureza del agua (sarro y cal). Carbón con plata que inhibe el desarrollo bacteriano.
+PSA RINNOVA;PSA RINNOVA (ducha);Filtro de ducha;?;?;?;
+PSA 1-P PORTATIL;PSA 1-P PORTÁTIL;Purificador;?;?;?;
 PSA SENIK;PSA SENIK + POSV.;Purificador;8000;18;18;Reduce el arsénico presente en el agua y disminuye el cloro, la turbiedad, el olor y el sabor.
 PSA C3;PSA C3;Purificador;?;?;?;
-PSA RINNOVA;PSA RINNOVA (ducha);Filtro de ducha;?;?;?;
 PSA IONTRIX 3;PSA IONTRIX 3;Purificador;?;?;?;
 PSA POLI 2;PSA POLI 2;Purificador;?;?;?;
 PSA DUO;PSA DUO (sin purificador);Dispenser;?;?;?;
-PSA 1-P PORTATIL;PSA 1-P PORTÁTIL;Purificador;?;?;?;
 PSA STOPPER;PSA STOPPER;Prefiltro;?;?;6;Retiene partículas gruesas en suspensión: arena, arcilla, tierra, óxido, algas y restos de cañería.
 PSA OSMOSIS ROPOT;PSA ÓSMOSIS ROPOT;Ósmosis inversa;?;?;36;Reduce más de un contaminante a la vez mediante ósmosis inversa, carbón activado y prefiltro. Portátil.
 PSA OSMOSIS ROTECH;PSA ÓSMOSIS ROTECH UV;Ósmosis inversa;?;?;?;
 PSA AIRPURIFIER;PSA AIRPURIFIER 220V;Purificador de aire;?;?;?;
 # - VIDEO: video del equipo (para mandarlo con el presupuesto o desde Garantías). VIDEO;inicio del nombre;link;título
+#   Se listan en este orden en Recursos → Videos.
 VIDEO;PSA SENIOR 4;https://youtu.be/76v53GxDRvw;Senior 4
 VIDEO;PSA SENIOR BIANCO;https://youtu.be/__ISvWioYow;Senior Bianco
-VIDEO;PSA VERO;https://youtu.be/EEXBGZNXAYg;Vero
 VIDEO;PSA S-1000 2;https://youtu.be/BS7UWVGkyXY;S-1000 2
+VIDEO;PSA VERO;https://youtu.be/EEXBGZNXAYg;Vero
 VIDEO;PSA MINI;https://youtu.be/uAvFgZSIC4Y;Mini
-VIDEO;PSA AIRPURIFIER;https://youtu.be/zSLVEdH_RI8;Purificador de aire
 VIDEO;PSA RINNOVA;https://youtu.be/lM2XjEVCPFI;Rinnova
+VIDEO;PSA IONTRIX 3;https://youtu.be/LUyjCSVjF_c;Iontrix 3 (ionizador de agua)
 VIDEO;PSA OSMOSIS ROTECH;https://youtu.be/nryM36xpIKY;Rotech UV (ósmosis inversa)
+VIDEO;PSA AIRPURIFIER;https://youtu.be/zSLVEdH_RI8;Purificador de aire
 VIDEO;PSA SODA BURBY;https://youtu.be/f4POVxDDM9A;Soda Burby (gasificador de agua)
 VIDEO;GRIFERÍA PSA BM;https://youtu.be/ybOaqvib3dw;Grifería PSA BM
 VIDEO;PSA DOMUS;https://youtu.be/Qu-_MbgQY5E;Domus (ablandador automático de agua)
-VIDEO;PSA IONTRIX 3;https://youtu.be/LUyjCSVjF_c;Iontrix 3 (ionizador de agua)
-
-# Fuente de los datos: catalogo.psa.com.ar (08/11/2026)
-# Revisar: SENIOR BIANCO y VERO figuran como "modelo discontinuado" en el catálogo
-# Faltan datos: C3, RINNOVA, IONTRIX 3, POLI 2, DUO, 1-P PORTATIL, ROTECH, AIRPURIFIER
