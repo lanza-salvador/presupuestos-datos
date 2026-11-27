@@ -1,9 +1,13 @@
 Cuota Simple PSA - Visa y Mastercard bancarias (ICBC, Patagonia y demás bancos sin acuerdo propio);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo por MODO. No aplica BBVA, Santander, Galicia, BNA, Macro ni Hipotecario. Incluye Cordobesa Mastercard
 Banco Nación - BNA (Visa y Mastercard, crédito y débito);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo por MODO. No acumulable. No débito de caja de ahorro gratuita
+Banco Santander (Visa, Amex y Mastercard);3,6,9,12,15,18;2026-11-27;2026-11-29;;Black Friday. Solo por MODO. Crédito y débito (no débito de caja de ahorro gratuita). No acumulable
 Banco Santander (Visa, Amex y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. No acumulable
 Banco Hipotecario (Visa y Mastercard);9,12;2026-11-24;2026-11-30;;Solo por MODO. Sin mora. No por Mercado Pago ni Todo Pago
+Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-27;2026-11-29;10;Black Friday. Solo por MODO. Cliente al día. No acumulable. 10 % off sin tope de reintegro sobre el precio de contado
 Banco Galicia (Visa, Mastercard y Amex);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. Cliente al día. No acumulable
+Banco Macro (Visa, Amex y Mastercard);3,6,9,12,15,18;2026-11-27;2026-11-29;;Black Friday. Solo por MODO. Solo crédito. No acumulable
 Banco Macro (Visa, Amex y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO. No acumulable
+BBVA (Visa y Mastercard);3,6,9,12,15,18;2026-11-27;2026-11-29;;Black Friday. Solo por MODO. Solo crédito
 BBVA (Visa y Mastercard);3,6,9,12;2026-11-24;2026-11-30;;Solo por MODO
 Banco Provincia - Bapro (Visa y Mastercard);3,6,9,12,15,18;2026-11-24;2026-11-30;;Solo CABA, GBA y Prov. de Buenos Aires. No por MODO ni billeteras. No acumulable. No Visa Corporate ni Business
 American Express (emitidas por American Express);3,6,9,12;2026-11-24;2026-11-30;;No por MODO. No acumulable
@@ -17,7 +21,10 @@ Tarjeta Sol;3,6,9,12;2026-11-24;2026-11-30;;
 
 # Formato: Tarjeta;Cuotas sin interés;Desde;Hasta;Reintegro %;Notas
 # Reintegro: lo devuelve el banco después de la compra. NO cambia el precio que se cobra; es informativo para el cliente.
-# Vigencia del documento: 24 de noviembre de 2026 (del martes 24 al lunes 30/11/2026)
+# Vigencia del documento: 27 de noviembre de 2026 (planes del martes 24 al lunes 30/11/2026)
+# Black Friday (viernes 27 al domingo 29/11): BBVA, Santander y Macro 3 a 18 cuotas; Galicia 3 a 12 + 10 % de reintegro.
+#   Esas líneas van ANTES de la línea común de su banco: del 27 al 29 la app toma la primera vigente (Black Friday)
+#   y el 30 vuelve sola a la común (3, 6, 9 y 12 hasta el 30, según el legal del 24/11).
 # Fuente: PDF de legales + piezas gráficas (las cuotas de BNA, Santander, Hipotecario, Macro, BBVA, Amex, Data, Tuya, Sol, Banco del Sol y Patagonia salen de las piezas)
 # Pendientes de completar: ninguno
 # Dudas: Cabal: la pieza dice 3, 6, 9, 12, 15 y 18 y el legal 3, 6, 9, 12 y 18. Se dejó sin la 15 (solo las que están en los dos).
@@ -25,3 +32,6 @@ Tarjeta Sol;3,6,9,12;2026-11-24;2026-11-30;;
 # Dudas: Bapro ya no tiene reintegro (no figura en el legal ni en la pieza). La pieza dice todos los medios de pago de PSA menos MODO.
 # Dudas: Naranja: la pieza dice Plan Zeta 11 cuotas con interés; en ATM figuraba "Plan Z 1 cuota". Se mantiene la Z.
 # Dudas: Patagonia 365: el legal solo dice "hasta el 30-11-2026"; se tomó desde el 24.
+# Dudas: BBVA, Santander, Macro y Galicia el lunes 30: el legal del 27/11 solo nombra el Black Friday (27 al 29). Se dejó
+#   la línea común del legal del 24/11 (3, 6, 9 y 12 hasta el 30), que las piezas nombran ("también podés operar con 3, 6, 9
+#   y 12"). Verificar en ATM el lunes 30; si no están, borrar esas 4 líneas comunes.
