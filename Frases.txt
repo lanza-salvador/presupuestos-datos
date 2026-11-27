@@ -1,0 +1,208 @@
+# AquaPresu: frases del día para Garantías → Hoy. Sin datos de clientes ni costos: puede ser público.
+# - Una por renglón: «Frase» | Autor   (el autor es opcional; las « » también: la app pone sus propias comillas)
+# - Sale una por día, la misma para todos. No hace falta ordenarlas: la app las va salteando
+#   y no repite ninguna hasta que salieron todas.
+# - Fecha fija (opcional): 25/12 | «Frase» | Autor   → ese día sale esa, todos los años.
+# - No usar | dentro de la frase. Los renglones que empiezan con # no se muestran.
+«Un hombre no es más que el producto de sus pensamientos. En lo que piensa, en eso se convierte.» | Adaptación de Mahatma Gandhi
+«No se trata de encontrar grandes personas, se trata de convertirse en una gran persona.» | Adaptación de Mark Yarnell
+«Aquellos que están lo suficientemente locos como para creer que pueden cambiar el mundo son quienes lo cambian.» | Adaptación de Steve Jobs
+«Tanto si crees que puedes como si crees que no puedes, en ambos casos estás en lo cierto.» | Adaptación de Henry Ford
+«Ocho horas terminan siendo poco para hacer todo lo que hay que hacer y para emprender todas las ideas nuevas que uno tiene.» | Adaptación de Sergio Fernández
+«Una de las capacidades más importantes que tenemos que desarrollar es la de confiar en nosotros mismos.» | Adaptación de Mario Alonso Puig
+«La confianza es riqueza intangible. Para vivir con abundancia necesitas inspirar confianza.» | Adaptación de Sergio Fernández
+«La mejor manera de predecir su futuro es crearlo.» | Adaptación de Abraham Lincoln
+«Siempre parece imposible hasta que se hace.» | Adaptación de Nelson Mandela
+«Un aspecto de la creatividad es no tener miedo al fracaso.» | Adaptación de Edwin Land
+«Cuando sabes lo que quieres y lo quieres lo suficiente, encontrarás la forma de conseguirlo.» | Adaptación de Jim Rohn
+«Haz todos los días algo que te dé miedo.» | Adaptación de Eleanor Roosevelt
+«La mayor gloria no es no caer nunca, sino levantarse siempre.» | Adaptación de Nelson Mandela
+«Cuando todo parezca ir en contra tuyo, recuerda que el avión despega con el viento en contra, no a favor.» | Adaptación de Henry Ford
+«La derrota no es derrota hasta que es aceptada como una realidad en tu propia mente.» | Adaptación de Bruce Lee
+«Haz lo que puedas, con lo que tienes, dondequiera que estés.» | Adaptación de Theodore Roosevelt
+«El éxito no es definitivo; el fracaso no es fatal. Lo que realmente cuenta es tener valor para continuar.» | Adaptación de Winston Churchill
+«Es mejor fallar en la originalidad que triunfar en la imitación.» | Adaptación de Herman Melville
+«El camino hacia el éxito y el camino hacia el fracaso son prácticamente el mismo.» | Adaptación de Colin R. Davis
+«El éxito suele llegar a quienes están demasiado ocupados para buscarlo.» | Adaptación de Henry David Thoreau
+«Desarrolla el éxito a partir de los fracasos. El desaliento y el fracaso son los peldaños hacia el éxito.» | Adaptación de Dale Carnegie
+«Nada en este mundo puede tomar el lugar de la persistencia. El talento no lo hará; nada es más común que los hombres sin éxito y con talento. El genio no lo hará; que los genios no son recompensados es casi proverbial. La educación tampoco: el mundo está lleno de negligentes educados. El lema “Sigue adelante” ha resuelto y resolverá siempre los problemas de la raza humana.» | Adaptación de Calvin Coolidge
+«Hay tres caminos hacia el éxito definitivo. El primero es ser amable. El segundo es ser amable. El tercero es ser amable.» | Adaptación de Mister Rogers
+«El éxito es la paz interior que resulta directamente de la autosatisfacción de saber que has hecho el esfuerzo de convertirte en lo mejor que eras capaz de ser.» | Adaptación de John Wooden
+«Nunca he soñado con el éxito. He trabajado por él.» | Adaptación de Estée Lauder
+«El éxito es obtener lo que quieres; la felicidad es querer lo que obtienes.» | Adaptación de W. P. Kinsella
+«El pesimista ve la dificultad en cada oportunidad. El optimista ve la oportunidad en cada dificultad.» | Adaptación de Winston Churchill
+«No dejes que el ayer ocupe mucho espacio de tu hoy.» | Adaptación de Will Rogers
+«Se aprende más de los fracasos que de los éxitos. No dejes que esto te detenga. El fracaso te hace más fuerte.» | Anónimo
+«Si trabajas en algo que te gusta y te apasiona, no necesitas un empujón. Tu visión será tu impulso.» | Adaptación de Steve Jobs
+«La experiencia es una maestra dura porque primero te hace el examen y luego te da la lección.» | Adaptación de Vernon Sanders Law
+«Saber cuánto puedes llegar a saber es el primer paso para aprender a vivir.» | Adaptación de Dorothy West
+«Fijarse metas es el secreto para un futuro grandioso.» | Adaptación de Tony Robbins
+«O corres durante el día o el día corre por ti.» | Adaptación de Jim Rohn
+«Creo profundamente en la suerte: cuanto más duro trabajo, más suerte tengo.» | Adaptación de Thomas Jefferson
+«Cuando nos esforzamos en ser mejores de lo que somos, todo a nuestro alrededor mejora también.» | Adaptación de Paulo Coelho
+«Fijarse metas es el primer paso para transformar lo invisible en visible.» | Adaptación de Tony Robbins
+«Cuando creo en algo, soy como un perro con un hueso.» | Adaptación de Melissa McCarthy
+«Y llegó el día en que el riesgo que corría por quedarse firme dentro del capullo era más doloroso que el riesgo que corría por florecer.» | Adaptación de Anaïs Nin
+«El éxito es tropezar de fracaso en fracaso sin perder el entusiasmo.» | Adaptación de Winston Churchill
+«Mantén tus ojos en las estrellas y tus pies en el suelo.» | Adaptación de Theodore Roosevelt
+«No dejes de pensar en la vida como una aventura. No tendrás seguridad a menos que puedas vivir con valentía, con emoción, con imaginación; a menos que puedas elegir un reto en lugar de la competencia.» | Adaptación de Eleanor Roosevelt
+«No se puede alcanzar la perfección. Pero si perseguimos la perfección, podemos alcanzar la excelencia.» | Adaptación de Vince Lombardi
+«Ten una buena idea y quédate con ella. Persíguela y trabaja en ella hasta que quede bien hecha.» | Adaptación de Walt Disney
+«El optimismo es la fe que conduce al logro. Nada se puede hacer sin esperanza y confianza.» | Adaptación de Helen Keller
+«El ascensor hacia el éxito no funciona. Tendrás que usar las escaleras, un peldaño cada vez.» | Adaptación de Joe Girard
+«Trabaja hasta que tu cuenta bancaria tenga el aspecto de un número de teléfono.» | Anónimo
+«Soy tan inteligente que a veces no entiendo ni una sola palabra de lo que estoy diciendo.» | Adaptación de Oscar Wilde
+«Siempre quise ser alguien, pero ahora me doy cuenta de que debería haber sido algo más específico.» | Adaptación de Lily Tomlin
+«Solo un pequeño pensamiento positivo por la mañana puede cambiar todo tu día.» | Adaptación de Dalai Lama
+«Las oportunidades no aparecen, las creas.» | Adaptación de Chris Grosser
+«Nunca es demasiado tarde para ser lo que podrías haber sido.» | Adaptación de George Eliot
+«No dejes que la opinión de alguien sobre ti se convierta en tu realidad.» | Adaptación de Les Brown
+«No soy un producto de mis circunstancias. Soy un producto de mis decisiones.» | Adaptación de Stephen Covey
+«Hazlo lo mejor que puedas. Nadie puede hacer más que eso.» | Adaptación de John Wooden
+«Si puedes imaginarlo, puedes hacerlo.» | Adaptación de Walt Disney
+«El gran descubrimiento de mi generación es que los seres humanos pueden cambiar sus vidas cambiando su actitud.» | Adaptación de William James
+«Una de las diferencias entre algunas personas de éxito y otras que no lo tienen es que un grupo está lleno de hacedores, mientras que el otro está lleno de deseadores.» | Adaptación de Edmond Mbiaka
+«Prefiero arrepentirme de las cosas que he hecho, que arrepentirme de las que no he hecho.» | Adaptación de Lucille Ball
+«No puedes arar un campo dándole vueltas en tu mente. Para empezar, empieza.» | Adaptación de Gordon B. Hinckley
+«Cuando te levantes por la mañana, piensa en el privilegio de vivir: respirar, pensar, disfrutar, amar.» | Adaptación de Marco Aurelio
+«Los lunes ofrecen un nuevo comienzo 52 veces al año.» | Adaptación de David Dweck
+«Siéntete miserable. O motívate. Cualquier cosa que hagas será siempre decisión tuya.» | Adaptación de Wayne Dyer
+«Puedes lograr todo lo que quieres en la vida si ayudas a suficientes personas a conseguir lo que quieren.» | Adaptación de Zig Ziglar
+«La inspiración existe, pero tiene que encontrarte trabajando.» | Adaptación de Pablo Picasso
+«No batees en corto. Apunta fuera del estadio. Apunta hacia la compañía de los inmortales.» | Adaptación de David Ogilvy
+«Me he mantenido sobre una montaña de noes solo por un sí.» | Adaptación de Bárbara Elaine Smith
+«Si crees que algo debe existir, si es algo que quieres usar tú mismo, no dejes que nadie te impida hacerlo.» | Adaptación de Tobias Lütke
+«La vida es como montar en bicicleta. Para mantenerte en equilibrio debes seguir pedaleando.» | Adaptación de Albert Einstein
+«Tus acciones hablan tan alto que no puedo escuchar lo que dices.» | Adaptación de Ralph Waldo Emerson
+«Nunca he dejado que mis estudios interfirieran en mi educación.» | Adaptación de Mark Twain
+«Si aún no estás preparado para hacer grandes cosas, haz cosas pequeñas con grandeza.» | Adaptación de Napoleon Hill
+«Si realmente quieres hacer algo, encontrarás una manera. Si no quieres hacerlo, encontrarás una excusa.» | Adaptación de Jim Rohn
+«Asegúrate de colocar tus pies en el lugar adecuado, y mantente firme.» | Adaptación de Abraham Lincoln
+«Vive de tu imaginación, no de tu historia.» | Adaptación de Stephen Covey
+«No esperes al momento y lugar perfectos para entrar porque ya estás en el escenario.» | Anónimo
+«Cuanto mayor es la dificultad, mayor es la gloria de superarla.» | Adaptación de Epicuro
+«El coraje no siempre ruge. A veces el coraje es una voz tranquila al final del día que dice: “Lo intentaré de nuevo mañana”.» | Adaptación de Mary Anne Radmacher
+«No puedo decirte cuántas veces he recibido un no solo para descubrir que justo a la vuelta de la esquina estaba esperándome un sí más grande y más brillante.» | Adaptación de Arlan Hamilton
+«Debemos aceptar que no siempre tomamos las decisiones adecuadas, que algunas veces metemos la pata hasta el fondo: aceptar el fracaso no es lo contrario al éxito, es parte de él.» | Adaptación de Arianna Huffington
+«No siempre puedes controlar lo que sucede ahí fuera. Pero siempre puedes controlar lo que sucede aquí adentro.» | Adaptación de Wayne Dyer
+«Somos lo que hacemos día a día. De modo que la excelencia no es un acto, sino un hábito.» | Adaptación de Aristóteles
+«Empieza donde estás. Usa lo que tienes. Haz lo que puedas.» | Adaptación de Arthur Ashe
+«El entusiasmo supera al talento cuando el talento no se entusiasma.» | Adaptación de Ross Simmonds
+«Asegúrate de que tu peor enemigo no vive entre tus dos orejas.» | Adaptación de Laird Hamilton
+«Es duro el camino que conduce a la grandeza.» | Adaptación de Séneca
+«Lo grandioso no sucede solo por impulso, es una sucesión de pequeñas cosas que se juntan.» | Adaptación de Vincent van Gogh
+«Si cuidamos los pequeños momentos, los años cuidarán de nosotros.» | Adaptación de Maria Edgeworth
+«Resiliencia es afrontar la incertidumbre con flexibilidad.» | Anónimo
+«A veces la magia es simplemente alguien dedicándole más tiempo a algo de lo que cualquiera podría esperar.» | Adaptación de Raymond Joseph Teller
+«Lo que importa no es la voluntad de ganar, todo el mundo la tiene. Lo que importa es la voluntad de prepararse para ganar.» | Adaptación de Paul Bryant
+«Así como un solo paso no abrirá un camino en la tierra, un solo pensamiento no abrirá un camino en la mente. Para hacer un camino físico profundo, caminamos una y otra vez. Para trazar un camino mental profundo, debemos pensar una y otra vez el tipo de pensamientos que deseamos que dominen nuestras vidas.» | Adaptación de Henry David Thoreau
+«Nunca renuncies a un sueño simplemente por el tiempo que necesitarás para lograrlo. El tiempo pasará de todos modos.» | Adaptación de Earl Nightingale
+«La verdadera humildad no es pensar menos de uno mismo: es pensar menos en sí mismo.» | Anónimo
+«Todo lo que siempre has deseado está al otro lado del miedo.» | Adaptación de George Addair
+«La pregunta no es quién va a dejarme hacerlo: la pregunta es quién tratará de impedírmelo.» | Adaptación de Ayn Rand
+«No he fracasado. Solo me he encontrado con 10.000 formas en las que esto no funciona.» | Adaptación de Thomas Edison
+«No te preocupes por el fracaso: basta con que lo hagas bien una vez.» | Adaptación de Drew Houston
+«Llevas contigo el pasaporte a tu propia felicidad.» | Adaptación de Diane Von Furstenberg
+«Nunca dejes que el éxito se te suba a la cabeza y nunca dejes que el fracaso se te suba al corazón.» | Adaptación de Drake
+«Las ideas sin ejecución son solo sueños.» | Adaptación de Robin Sharma
+«Los dos días más importantes de tu vida son el día en el que naces y el día en el que descubres por qué.» | Adaptación de Mark Twain
+«Nada desaparece hasta que nos enseña lo que necesitamos saber.» | Adaptación de Pema Chödrön
+«Podemos ver a través de los demás solo cuando podemos ver a través de nosotros mismos.» | Adaptación de Bruce Lee
+«Olvídate de la inspiración. Fíate más del hábito. El hábito te sostendrá, tanto si estás inspirado como si no.» | Adaptación de Octavia Butler
+«La mejor salida es siempre a través.» | Adaptación de Robert Frost
+«Las batallas que cuentan no son las de las medallas de oro. La lucha interior, las batallas invisibles e inevitables dentro de uno mismo, son las que cuentan.» | Adaptación de Jesse Owens
+«Sin lucha no hay progreso.» | Adaptación de Frederick Douglass
+«Alguien siempre dirá “Yo soy el líder”, y esperará que todos hagan una fila y lo sigan hasta las puertas del cielo o del infierno. Pero la experiencia me dice que eso no sucede así. Los demás te siguen por la calidad de tus acciones, más que por la magnitud de tus palabras.» | Adaptación de Bill Walsh
+«La valentía es como un músculo. La fortalecemos con el uso.» | Adaptación de Ruth Gordon
+«Corta por lo sano con las tonterías, no esperes a hacer lo que verdaderamente importa y saborea el tiempo que tienes. Es lo que debes hacer porque la vida es corta.» | Adaptación de Paul Graham
+«Más se pierde por la indecisión que por una mala decisión.» | Adaptación de Cicerón
+«Si el principal objetivo del capitán fuera preservar su barco, lo mantendría en el puerto para siempre.» | Adaptación de Tomás de Aquino
+«Ya puedes ser el melocotón más maduro y jugoso del mundo, que siempre habrá alguien que odie los melocotones.» | Adaptación de Dita Von Teese
+«Mantén un poco de fuego encendido: por pequeño que sea y por oculto que esté.» | Adaptación de Cormac McCarthy
+«Nunca te aburrirás si intentas algo nuevo. Realmente no existe un límite para todo lo que puedes hacer.» | Adaptación de Dr. Seuss
+«Creo que es embriagador cuando alguien es quien es sin pedir disculpas.» | Adaptación de Don Cheadle
+«Nunca dejarás una huella imborrable si siempre caminas de puntillas.» | Adaptación de Leymah Gbowee
+«Si no te gusta la carretera por la que avanzas, empieza a asfaltar otra.» | Adaptación de Dolly Parton
+«Si te pone nervioso es que lo estás haciendo bien.» | Adaptación de Childish Gambino
+«Lo que haces marca la diferencia, y tienes que decidir qué diferencia quieres marcar.» | Adaptación de Jane Goodall
+«Elijo hacer del resto de mi vida lo mejor de mi vida.» | Adaptación de Louise Hay
+«Para ser irremplazable, debes ser diferente.» | Adaptación de Coco Chanel
+«Cualquier cosa puede hacer que me detenga, mire, me pregunte y, a veces, aprenda.» | Adaptación de Kurt Vonnegut
+«La pasión y el deseo de autenticidad de la gente son poderosos.» | Adaptación de Constance Wu
+«Un superávit de esfuerzo puede compensar un déficit de confianza.» | Adaptación de Sonia Sotomayor
+«La duda mata. Solo tienes que saber quién eres y qué representas.» | Adaptación de Jennifer López
+«Nadie que no esté obsesionado puede cambiar el mundo.» | Adaptación de Billie Jean King
+«Aprendí hace mucho tiempo que hay algo peor que fallar un gol, y es no golpear el balón.» | Adaptación de Mia Hamm
+«Algunas personas quieren que algo suceda, otras sueñan con que suceda y otras hacen que suceda.» | Adaptación de Michael Jordan
+«Entre lo que me pasa y lo que hago, siempre hay un espacio para elegir. Esta semana, ¿qué vas a elegir?» | Anónimo
+«Y vos, ¿llevás tu vida o tu vida te lleva?» | Anónimo
+«La mayoría de las cosas importantes han sido logradas por personas que lo han seguido intentando cuando parecía que no había ninguna esperanza.» | Adaptación de Dale Carnegie
+«Nuestra meta nunca debe ser soportar aquello que odiamos, sino descubrir aquello que amamos hacer.» | Adaptación de Camilo Cruz
+«Tener un propósito hace que vivamos las cosas de otra manera.» | Adaptación de Mario Alonso Puig
+«Lo bonito del multinivel es que no necesitas saber mucho.» | Adaptación de Jaime Lockier
+«La autoeducación es la única forma de crear grandes fortunas.» | Adaptación de Robert Kiyosaki
+«La posibilidad del cambio está en uno mismo.» | Adaptación de Sergio Fernández
+«Si no disfrutamos no podemos tener éxito.» | Adaptación de Mario Alonso Puig
+«El hombre que llega más lejos es generalmente el que está más dispuesto a hacer y atreverse.» | Adaptación de Dale Carnegie
+«Necesitas creer mucho, desear mucho, entregarte mucho, y para eso no necesitas un título o una carrera.» | Adaptación de Jaime Lockier
+«Tu mente es tu mayor activo y quien se prepara día a día para el éxito es quien termina alcanzándolo.» | Adaptación de Robert Kiyosaki
+«La constancia es la virtud por la que todas las demás dan su fruto.» | Adaptación de Sergio Fernández
+«No naciste para vivir asustado, sino para creer en ti y tus posibilidades.» | Adaptación de Mario Alonso Puig
+«Recuerda que el nombre de una persona es para esa persona el sonido más dulce e importante en cualquier idioma.» | Adaptación de Dale Carnegie
+«Invertir en el negocio parece caro, hasta que entiendes lo caro que es trabajar toda la vida para algo que no es realmente tuyo.» | Adaptación de Jaime Lockier
+«La emoción de ganar debe ser mayor al miedo de perder.» | Adaptación de Robert Kiyosaki
+«El lenguaje no solo describe, sino que crea nuestra realidad.» | Adaptación de Mario Alonso Puig
+«Solo el conocimiento que se usa queda grabado en tu mente.» | Adaptación de Dale Carnegie
+«Enséñale a un hombre a pescar y comerá toda su vida. Enséñale a generar un sistema duplicable de gente ganando dinero por vender pescado en los mejores restaurantes del mundo.» | Adaptación de Jaime Lockier
+«Los ganadores no tienen miedo de perder. Los perdedores sí.» | Adaptación de Robert Kiyosaki
+«Haciendo grandes cosas con pequeños pasos podemos conseguir resultados asombrosos.» | Adaptación de Mario Alonso Puig
+«Ser líder es como ser un caballero, si tienes que decirlo es porque no lo eres.» | Adaptación de Jaime Lockier
+«Es más importante crecer tus ingresos que reducir tus gastos. Es más importante hacer crecer tu espíritu que cortar tus sueños.» | Adaptación de Robert Kiyosaki
+«La verdadera felicidad viene del ser no del tener.» | Adaptación de Mario Alonso Puig
+«Las acciones hablan más que las palabras y una sonrisa dice: “Me gustas, me hiciste feliz, me alegra verte”.» | Adaptación de Dale Carnegie
+«Enséñale a alguien a crecer su cheque y se quedará contigo mientras este siga creciendo, enséñale a crecer su persona y se quedará contigo para siempre.» | Adaptación de Jaime Lockier
+«Los perdedores se rinden cuando fracasan. Los ganadores fracasan hasta que consiguen el éxito.» | Adaptación de Robert Kiyosaki
+«La educación es lo que permite armonizar la cabeza y el corazón.» | Adaptación de Mario Alonso Puig
+«Si haces bien los pequeños trabajos, los grandes tenderán a hacerse solos.» | Adaptación de Dale Carnegie
+«Las personas siempre van a recordar cómo les hiciste sentir.» | Adaptación de Mario Alonso Puig
+«Una hora de planificación puede ahorrarte 10 horas de trabajo.» | Adaptación de Dale Carnegie
+«La sabiduría se halla entre el saber y el saber hacer.» | Adaptación de Mario Alonso Puig
+«La acción genera confianza y valor.» | Adaptación de Dale Carnegie
+«El que da mayores oportunidades de negocio construye las organizaciones más grandes y sólidas.» | Anónimo
+«La aventura de la vida es atreverse.» | Adaptación de Mario Alonso Puig
+«No hay negocios millonarios, hay millonarios que hacen negocios.» | Adaptación de Robert Kiyosaki
+«Ya no nos convencen las palabras, solo nos inspira el ejemplo.» | Adaptación de Mario Alonso Puig
+«El éxito es el resultado de mucho trabajo y de nunca rendirse.» | Anónimo
+«El conocimiento suma, las habilidades suman, la actitud multiplica.» | Adaptación de Víctor Küppers
+«Los líderes tienen la disciplina para hacer lo que es importante, en lugar de hacer lo que es fácil y divertido.» | Adaptación de Robin Sharma
+«El 95 % de la gente quiere lo que el 5 % tiene; la única diferencia es que el 95 % se sienta y se queja, mientras el 5 % sale, busca y encuentra.» | Anónimo
+«La constancia convierte los pequeños esfuerzos de hoy en resultados que mañana parecen grandes.» | Reflexión original
+«No necesitas tener todo resuelto para dar el primer paso; necesitas decidir que vas a empezar.» | Reflexión original
+«Un equipo no crece cuando todos esperan instrucciones, sino cuando cada integrante aprende a tomar iniciativa.» | Reflexión original
+«La confianza no se exige: se construye con coherencia, cumplimiento y respeto.» | Reflexión original
+«No midas tu avance solamente por lo que lograste; también cuenta aquello que aprendiste y superaste.» | Reflexión original
+«Una meta sin acciones es una intención; una meta acompañada de hábitos empieza a convertirse en realidad.» | Reflexión original
+«Liderar no es tener todas las respuestas, sino ayudar a que otros descubran de qué son capaces.» | Reflexión original
+«El entusiasmo puede abrir una puerta, pero la disciplina es la que te ayuda a atravesarla cada día.» | Reflexión original
+«No todos avanzan al mismo ritmo; un buen equipo aprende a acompañar sin dejar de impulsar.» | Reflexión original
+«Cada conversación sincera puede convertirse en el comienzo de una oportunidad.» | Reflexión original
+«Cuando una persona encuentra un propósito, las dificultades dejan de ser solamente obstáculos y también se convierten en aprendizaje.» | Reflexión original
+«No confundas estar ocupado con estar avanzando: dedica tiempo a lo que realmente acerca a tus objetivos.» | Reflexión original
+«El ejemplo tiene una fuerza que ningún discurso puede reemplazar.» | Reflexión original
+«La perseverancia no consiste en repetir siempre lo mismo, sino en aprender, ajustar y volver a intentarlo.» | Reflexión original
+«Un rechazo no define tu capacidad; solamente indica que esa oportunidad no se concretó en ese momento.» | Reflexión original
+«Las relaciones duraderas comienzan cuando dejamos de pensar solamente en lo que queremos obtener y empezamos a pensar en cómo podemos aportar.» | Reflexión original
+«La duplicación comienza cuando hacemos algo de manera sencilla, clara y posible de enseñar a otra persona.» | Reflexión original
+«El crecimiento de un equipo no depende de una sola persona, sino del compromiso que cada integrante decide asumir.» | Reflexión original
+«No prometas resultados que no controlas; ofrece trabajo honesto, acompañamiento y disposición para aprender.» | Reflexión original
+«La actitud no elimina los problemas, pero influye en la manera en que decidimos enfrentarlos.» | Reflexión original
+«Una oportunidad puede acercarte a una meta; la preparación y el trabajo diario te ayudan a aprovecharla.» | Reflexión original
+«No esperes sentirte completamente preparado: muchas capacidades se desarrollan mientras avanzas.» | Reflexión original
+«El verdadero progreso se nota cuando lo que aprendiste empieza a mejorar tus decisiones y tus acciones.» | Reflexión original
+«Un líder no busca ser imprescindible; trabaja para que otros también puedan crecer y liderar.» | Reflexión original
+«La motivación puede encender el comienzo, pero el compromiso sostiene el camino cuando llegan los días difíciles.» | Reflexión original
+«Vender con honestidad es ayudar a una persona a decidir con información clara, sin presión ni promesas exageradas.» | Reflexión original
+«No todos los días serán extraordinarios; lo importante es que incluso los días comunes tengan una acción con propósito.» | Reflexión original
+«La confianza de un cliente vale más que una venta conseguida a cualquier precio.» | Reflexión original
+«Un equipo fuerte no es el que nunca tiene dificultades, sino el que aprende a hablarlas y resolverlas juntos.» | Reflexión original
+«El éxito que merece la pena construir también deja mejores personas en el camino.» | Reflexión original
